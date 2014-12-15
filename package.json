@@ -1,0 +1,10 @@
+{
+  "name" : "DircupancyAgent",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependencies" : {
+    "filewalker": "*",
+    "bossy": "*",
+    "url": "*"
+  }
+}
